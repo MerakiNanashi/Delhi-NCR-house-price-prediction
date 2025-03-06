@@ -101,7 +101,8 @@ house-price-prediction/
 ├── requirements.txt             # Project dependencies
 ├── server.py                    # Flask server implementation
 ├── util.cpython-312.pyc         # Compiled Python utility module
-└── util.py                      # Utility functions for prediction and data processing
+├── util.py                      # Utility functions for prediction and data processing
+└── LICENSE.md                   # License
 ```
 
 ### Development
@@ -170,7 +171,7 @@ To test the model's prediction capabilities:
 
 ## License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE.md) file for details.
 
 ## Acknowledgments
 
